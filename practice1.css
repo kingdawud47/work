@@ -1,0 +1,171 @@
+body{
+	width: 100%;
+	height: auto;
+	margin: 0;
+	overflow-x: hidden;
+
+}
+
+
+.head{
+	width: 100%;
+	height: 350px;
+	
+
+}
+.aa{
+	background-image:url(pexels-photo-248515.png);
+	width: 100%;
+	height:350px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: absolute;
+	z-index: -1;
+	opacity: 0.9;
+	background-position: center;
+}
+
+	
+.bb{
+	width: 80%;
+	height: 350px;
+	padding-top: 1px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	  padding-left: 100px;
+    
+    flex-direction: column;
+}
+
+.text{
+	padding-top: 50px;
+	color: ghostwhite;
+	margin-bottom: 0;
+	}
+.text1{
+	color: ghostwhite;
+	font-size:20px ;
+	
+	line-height: 1.5;
+}
+.ff{
+	display: inline-block;
+	color: ghostwhite;
+	text-decoration: none;
+	border: 1px solid #666;
+	margin: 0.4em;
+	 padding: 1em 2em;
+	 background-color: #333;
+	 cursor: pointer;
+}
+.yy{
+	width: 30%;
+	height: 100px;
+	padding-left: 360px;
+
+}
+.sectionb{
+	width: 100%;
+	height: 200px;
+	font-family: sans-serif;
+	text-align: center;
+	background-color: wheat;
+	padding-top: 1px;
+
+
+}
+.uu{
+	font-size: 30px;
+}
+.ll{
+	columns: 2;
+	column-gap: 2em;
+	font-size: 18px;
+}
+
+#sectionc{
+	width: 100%;
+	height: 600px;
+	background-color: #333;
+	padding-top: 1px;
+    }
+
+#first{
+	width: 300px;
+	height: 550px;
+	background-color: ghostwhite;
+	align-items: center;
+	margin-top: 25px;
+}
+#second{
+	width: 300px;
+	height: 550px;
+	background-color: ghostwhite;
+	align-items: center;
+    margin-top: 25px;
+}
+#card{
+	width: 300px;
+	height: 550px;
+	background-color: ghostwhite;
+	align-items: center;
+	margin-top: 25px;
+}
+.grid{
+	display: flex;
+	justify-content: center;
+	column-gap: 2em;
+}
+p{
+	margin: 0px;
+    padding: 1em 0px;
+}
+.pp{
+	width: 80%;
+	height: 100%;
+	align-items: center;
+}
+.sectiond{
+	width: 100%;
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: ghostwhite;
+}
+.uno{
+	background-color: rgb(62, 60, 60);
+	
+	font-size: 20px;
+	font-family: sans-serif;
+	align-items: center;
+	width: 50%;
+	height: 100%;
+}
+.duos{
+      background-color: rgb(11, 147, 193);
+	font-size: 20px;
+	font-family: sans-serif;
+	align-items: center;
+	width: 50%;
+	height: 100%;
+}
+.foot{
+	width: 100%;
+	height: 120px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: black;
+	column-gap: 12em;
+}
+.rr{
+	background-color: black;
+	color: ghostwhite;
+	
+}
+.vv{
+	color: rgb(47, 93, 230);
+	text-decoration: none;
+}
